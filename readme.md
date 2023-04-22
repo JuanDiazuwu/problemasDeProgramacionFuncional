@@ -57,9 +57,9 @@ La clase `ProductDAO` tiene los siguientes métodos:
 
 * `sameClassificationAndHigherPriceFifteenPointFifty(classification)`: Lista de productos con la misma clasificación y precio mayor 15.50. Recibe como paramétro la clasificacion `classification` como un string.
 
-`priceBetweenTwentyPointThirtyAndFortyFive()`: Lista de productos con precio mayor a 20.30 y menor a 45.00.
+* `priceBetweenTwentyPointThirtyAndFortyFive()`: Lista de productos con precio mayor a 20.30 y menor a 45.00.
 
-`groupedByTheirClassification()`: Número de productos agrupados por su clasificación.
+* `groupedByTheirClassification()`: Número de productos agrupados por su clasificación.
 
 ## Instrucciones de Uso
 
