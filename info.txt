@@ -1,0 +1,79 @@
+001 , Arroz, 25.50 , Abarrotes , 50 , 10 , 100
+002 , Frijol , 20.00 , Abarrotes , 30 , 5 , 80
+003 , Leche , 18.75 , Lácteos , 40 , 15 , 60
+004 , Queso , 45.00 , Lácteos , 15 , 5 , 30
+005 , Jabón , 12.50 , Limpieza , 80 , 20 , 120
+006 , Papel higiénico , 15.00 , Limpieza , 60 , 10 , 100
+007 , Refresco , 10.50 , Bebidas , 25 , 5 , 50
+008 , Cerveza , 22.00 , Bebidas , 10 , 2 , 20
+009 , Atún , 28.75 , Mariscos , 35 , 10 , 50
+010 , Sardina , 12.50 , Mariscos , 45 , 15 , 70
+011 , Harina , 25.00, Granos , 15, 10 , 30
+012 , Pan , 5.00 , Panadería , 20 , 10 , 40
+013 , Salchicha , 35.00 , Carnicería , 10 , 5 , 20
+014 , Jamón , 30.00 , Carnicería , 7 , 5 , 15
+015 , Mermelada , 18.50 , Dulcería , 10 , 5 , 20
+016 , Miel de Maple , 25.00 , Dulcería , 5 , 5 , 15
+017 , Galletas , 20.00 , Dulcería , 30 , 15 , 60
+018 , CocaCola , 20.00 , Bebidas , 40 , 20 , 60
+019 , Pepsi , 19.00 , Bebidas , 30 , 20 , 60
+020 , Agua , 7.00 , Bebidas , 50 , 20 , 80
+021 , Vino , 500.00 , Bebidas , 8 , 5 , 15
+022 , Manzana , 22.00 , Frutería , 25 , 10 , 35
+023 , Naranja , 18.00 , Frutería , 15 , 5 , 35
+024 , Piña , 25.00 , Frutería , 8 , 5 , 15
+025 , Fresa , 30.00 , Frutería , 16 , 5 , 19
+026 , Pera , 19.00 , Frutería , 7 , 5 , 10
+027 , Toronja ,  20.00 , Frutería , 7 , 6 , 16
+028 , Platano , 15.00 , Frutería , 10 , 9 , 25
+029 , Melón , 30.00 , Frutería , 5 , 3 , 8
+030 , Mango , 21.00 , Frutería , 4 , 2 , 10
+031 , Durazno ,  24.00 , Frutería , 7 , 5 , 15
+032 , Cereza , 18.00 , Frutería , 10 , 7 , 17
+033 , Higo , 13.00 , Frutería , 13 , 12 , 20
+034 , Sandía, 50.00 , Frutería , 5 , 2 , 10
+035 , Uva ,  60.00 , Frutería , 50 , 20, 60
+036 , Aguacate , 40.00 , Frutería , 15 , 12 , 18
+037 , Coco , 30.00 , Frutería , 5 , 5 , 10
+038 , Guayaba , 24.00 , Frutería , 20 , 10 , 30
+039 , Kiwi , 15.00 , Frutería , 10 , 4 , 15
+040 , Papaya , 35.00 , Frutería , 10 , 5 , 15
+041 , Apio , 34.00 , Frutería , 15 , 11 , 16
+042 , Brócoli , 29.00 , Frutería , 4 , 2 , 10
+043 , Carne , 100.00 , Carnicería , 15 , 5 , 20
+044 , Pollo , 80.00 , Carnicería , 20 , 5 , 34
+045 , Pescado , 70.00 , Mariscos , 10 , 5 , 20
+046 , Tocino , 60.00 , Carnicería , 8 , 5 , 15
+047 , Yogurth , 15.00 , Lácteos , 20 , 10 , 40
+048 , Crema , 23.00 , Lácteos , 15 , 5 , 30
+049 , Leche Condensada , 22.00 , Lácteos , 10 , 5 , 20
+050 , Queso , 40.00 , Lácteos , 10 , 5 , 20
+051 , Cereal , 25.00 , Cereales , 20 , 10 , 40
+052 , Pan Tostado , 20.00 , Panadería , 30 , 10 , 35
+053 , Huevos , 18.00 , Abarrotes , 10 , 5 , 17
+054 , Jugo de Naranja , 20.00 , Bebidas , 25 , 10 , 34
+055 , Sopa , 10.00 , Cereales , 30 , 10 , 35
+056 , Consome , 8.00 , Abarrotes , 10 , 5 , 20
+057 , Mayonesa , 20.00 , Abarrotes , 15 , 5 , 30
+058 , Pasta Dental , 12.00 , Higiene , 20 , 10 , 40
+059 , Jabón Corporal , 15.00 , Higiene , 15 , 5 , 50
+060 , Shampoo , 18.00 , Higiene , 10 , 5 , 20
+061 , Tijeras , 40.00 , Papelería , 5 , 2 , 7
+062 , Hoja de máquina , 100.00 , Papelería , 5 , 2 , 7
+063 , Plumas , 15.00 , Papelería , 30 , 25 , 80
+065 , Lapiz , 5.00 , Papelería , 35 , 30 , 50
+066 , Atún en agua , 21.50 , Mariscos , 15 , 5 , 30
+067 , Atún en aceite , 25.00 , Mariscos , 20 , 5 , 30
+068 , Piña en almíbar , 25.00 , Frutería , 15 , 5 , 20
+069 , Chile , 12.00 , Frutería , 30 , 10 , 50
+070 , Chile Jalapeño , 17.50 ,  Frutería , 30 , 10 , 35
+071 , Pepinillos , 19.00 , Frutería , 7 , 5 , 15
+072 , Salsa de tomate , 16.00 , Abarrotes , 35 , 10 , 40
+073 , Wins , 24.50 , Carnicería , 20 , 10 , 35
+074 , Chorizo , 27.50 , Carnicería , 18 , 5 , 25
+075 , Carne Molida , 42.00 , Carnicería , 8 , 2 , 15
+076 , Camarones , 75.00 , Mariscos , 20 , 10 , 40
+077 , Pulpo , 40.00 ,  Mariscos , 3 , 1 , 5
+078 , Filete de tilapia , 30.00 , Mariscos , 12 , 5 , 25
+079 , Tortilla de maíz , 19.00 , Abarrotes , 10 , 5 , 25
+080 , TOrtilla de harina , 25.00 , Abarrotes , 20 , 10 , 25
