@@ -76,9 +76,13 @@ node product.js
 * 5 .- El código mostrará cinco operaciones diferentes que se pueden realizar con los datos, apartir de los métodos:
 
     existenceGreaterThanTwenty()
+
     existenceLessThanFifteen()
+
     sameClassificationAndHigherPriceFifteenPointFifty()
+
     priceBetweenTwentyPointThirtyAndFortyFive()
+    
     groupedByTheirClassification()
 
 Siéntete libre de clonar este repositorio y probar su funcionamiento. ¡Espero que te sea útil!
